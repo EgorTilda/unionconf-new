@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.15.9"
+    "astro": "^5.15.9",
+    "autoprefixer": "^10.4.22",
+    "sort-media-queries": "^0.2.2"
   }
 }
